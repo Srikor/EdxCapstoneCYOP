@@ -6,6 +6,7 @@ if(!require(readr)) install.packages("readr", repos = "http://cran.us.r-project.
 if(!require(ROCR)) install.packages("ROCR", repos = "http://cran.us.r-project.org")
 if(!require(boot)) install.packages("boot", repos = "http://cran.us.r-project.org")
 if(!require(xgboost)) install.packages("xgboost", repos = "http://cran.us.r-project.org")
+if(!require(e1071)) install.packages("e1071", repos = "http://cran.us.r-project.org")
 
 # Download the HTRU2 dataset from UCI website and store it to a temporary variable
 dl <- tempfile()
