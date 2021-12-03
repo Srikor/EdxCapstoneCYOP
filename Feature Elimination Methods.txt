@@ -1,0 +1,28 @@
+Filter Method
+	Pearson Coefficient
+	Chi squared
+	ANOVA
+
+Wrapper Method
+	REcursive Feature Elimination
+	Genetic Algorithms
+
+Intrinsic Method
+	Lasso Regularization
+	Decision Tres
+
+Categorical to Categorical
+	Chi Squared
+	Mutual Information
+
+Numeric to Numeric
+	Pearson Correlation
+	Spearman's Rank
+
+Numerical to Categorical
+	ANOVA
+	Kendall's rank
+
+Categorical to Numeric
+	ANOVA
+	Kendall's rank
